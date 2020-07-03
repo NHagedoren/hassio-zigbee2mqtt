@@ -4,7 +4,11 @@ FROM $BUILD_FROM
 # Add env
 ENV LANG C.UTF-8
 
+<<<<<<< HEAD
 ENV ZIGBEE2MQTT_VERSION=1.14.1
+=======
+ENV ZIGBEE2MQTT_VERSION=1.13.1
+>>>>>>> parent of 4eed16a... Bump Zigbee2mqtt to 1.14.0
 ENV ARCHIVE=zigbee2mqtt-$ZIGBEE2MQTT_VERSION
 
 RUN apk add --update --no-cache curl jq nodejs npm socat \

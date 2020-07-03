@@ -1,6 +1,10 @@
 {
   "name": "zigbee2mqtt",
+<<<<<<< HEAD
   "version": "1.14.1",
+=======
+  "version": "1.13.1.1",
+>>>>>>> parent of 4eed16a... Bump Zigbee2mqtt to 1.14.0
   "slug": "zigbee2mqtt",
   "description": "Zigbee to MQTT Bridge",
   "auto_uart": true,

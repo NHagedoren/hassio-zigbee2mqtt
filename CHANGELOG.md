@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 This project is versioned based upon the version of [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt). The versioning `X.Y.Z` of the stable release of this add-on will track that of zigbee2mqtt. If there are new releases without upgrades to the zigbee2mqtt version (i.e., changes to the add-on that occur between releases of zigbee2mqtt), an additional number will be added to indicate this (`X.Y.Z.A`, where `A` indicates a new versioned release).
 
+<<<<<<< HEAD
 ## 1.14.1 - 2020-06-30
 ### Changed
 - Updated to latest Zigbee2Mqtt version [`1.14.1`](https://github.com/Koenkk/zigbee2mqtt/releases/tag/1.14.1)
@@ -13,6 +14,8 @@ This project is versioned based upon the version of [zigbee2mqtt](https://github
 ### Changed
 - Updated to latest Zigbee2Mqtt version [`1.14.0`](https://github.com/Koenkk/zigbee2mqtt/releases/tag/1.14.0)
 
+=======
+>>>>>>> parent of 4eed16a... Bump Zigbee2mqtt to 1.14.0
 ## 1.13.1 - 2020-05-23
 ### Added
 - Added config option `transmit_power` under the new `experimental category`
